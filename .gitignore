@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Generated database and transient outputs
+data/processed/
+outputs/
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep the synthetic raw dataset in Git for easy reproduction.

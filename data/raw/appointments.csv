@@ -1,0 +1,1011 @@
+appointment_id,appointment_date,department,patient_age,wait_time_minutes,status,satisfaction_score
+A00001,2026-01-17,General Medicine,70,17.0,Completed,3.0
+A00002,2026-05-21,General Medicine,63,51.0,Completed,5.0
+A00003,2026-04-29,General Medicine,81,13.0,Completed,4.0
+A00004,2026-03-21,Orthopedics,83,30.0,Completed,4.0
+A00005,2026-03-20,Orthopedics,65,24.0,Cancelled,2.0
+A00006,2026-06-05,General Medicine,43,38.0,Completed,5.0
+A00007,2026-01-16,Dental,58,23.0,Completed,3.0
+A00008,2026-05-07,General Medicine,46,30.0,Cancelled,4.0
+A00009,2026-02-06,Orthopedics,60,31.0,Completed,4.0
+A00010,2026-01-18,Cardiology,73,22.0,Completed,
+A00011,2026-04-06,Cardiology,43,44.0,Completed,4.0
+A00012,2026-06-26,General Medicine,52,39.0,No-show,3.0
+A00013,2026-05-14,Cardiology,21,33.0,Completed,4.0
+A00014,2026-05-18,Dental,68,27.0,Completed,5.0
+A00015,2026-05-10,Dental,51,49.0,Completed,2.0
+A00016,2026-05-23,Cardiology,49,31.0,Completed,3.0
+A00017,2026-04-03,Dental,54,29.0,Completed,1.0
+A00018,2026-01-24,General Medicine,32,37.0,Completed,2.0
+A00019,2026-06-01,Cardiology,58,66.0,No-show,4.0
+A00020,2026-03-23,General Medicine,68,11.0,Cancelled,4.0
+A00021,2026-04-01,General Medicine,41,,Completed,2.0
+A00022,2026-03-09,Dental,26,1.0,Completed,3.0
+A00023,2026-02-03,Cardiology,44,39.0,No-show,5.0
+A00024,2026-06-17,Neurology,31,63.0,Completed,
+A00025,2026-05-22,Cardiology,43,44.0,Completed,1.0
+A00026,2026-04-27,Dental,60,38.0,No-show,2.0
+A00027,2026-03-14,General Medicine,25,25.0,Completed,4.0
+A00028,2026-05-29,General Medicine,68,36.0,Cancelled,2.0
+A00029,2026-04-09,General Medicine,33,30.0,Completed,5.0
+A00030,2026-03-22,Dental,78,,Completed,5.0
+A00031,2026-03-23,Neurology,67,30.0,Cancelled,3.0
+A00032,2026-02-11,General Medicine,36,39.0,Completed,2.0
+A00033,2026-01-17,Orthopedics,56,21.0,Completed,1.0
+A00034,2026-04-11,Neurology,25,20.0,Completed,5.0
+A00035,2026-06-10,Cardiology,24,11.0,Completed,5.0
+A00036,2026-01-12,Dental,83,42.0,Completed,3.0
+A00037,2026-06-05,Orthopedics,72,45.0,Completed,
+A00038,2026-05-30,Cardiology,28,39.0,Completed,4.0
+A00039,2026-02-20,Cardiology,37,52.0,Completed,4.0
+A00040,2026-04-25,General Medicine,31,37.0,Completed,1.0
+A00041,2026-01-30,General Medicine,44,42.0,Cancelled,4.0
+A00042,2026-05-18,Neurology,37,40.0,Completed,5.0
+A00043,2026-05-07,General Medicine,40,33.0,Completed,4.0
+A00044,2026-03-06,General Medicine,53,25.0,Completed,3.0
+A00045,2026-01-13,Cardiology,30,75.0,Completed,3.0
+A00046,2026-06-25,Orthopedics,78,,Completed,2.0
+A00047,2026-03-22,Orthopedics,67,23.0,Completed,4.0
+A00048,2026-06-11,Cardiology,69,43.0,Completed,2.0
+A00049,2026-05-03,General Medicine,29,40.0,No-show,2.0
+A00050,2026-05-21,Orthopedics,66,10.0,Cancelled,2.0
+A00051,2026-05-18,Orthopedics,74,55.0,Completed,2.0
+A00052,2026-02-05,Cardiology,29,33.0,Cancelled,2.0
+A00053,2026-03-07,Cardiology,69,15.0,No-show,1.0
+A00054,2026-03-26,General Medicine,42,56.0,Completed,4.0
+A00055,2026-04-01,Cardiology,71,46.0,Completed,3.0
+A00056,2026-01-08,Dental,50,12.0,Completed,5.0
+A00057,2026-04-09,Dental,72,67.0,Completed,1.0
+A00058,2026-01-28,Orthopedics,28,47.0,Completed,4.0
+A00059,2026-05-15,Neurology,44,35.0,Completed,1.0
+A00060,2026-05-04,Orthopedics,36,64.0,Completed,3.0
+A00061,2026-06-16,Cardiology,34,38.0,Cancelled,3.0
+A00062,2026-05-15,Dental,38,34.0,Cancelled,3.0
+A00063,2026-03-08,General Medicine,44,23.0,Completed,4.0
+A00064,2026-06-25,Neurology,26,45.0,Completed,5.0
+A00065,2026-03-16,Neurology,66,44.0,Completed,2.0
+A00066,2026-02-28,Neurology,55,35.0,Completed,5.0
+A00067,2026-06-13,General Medicine,74,21.0,No-show,1.0
+A00068,2026-03-09,Cardiology,65,37.0,Cancelled,2.0
+A00069,2026-01-14,Dental,28,34.0,No-show,2.0
+A00070,2026-03-26,Orthopedics,22,11.0,Cancelled,5.0
+A00071,2026-05-25,Dental,46,9.0,No-show,1.0
+A00072,2026-02-04,General Medicine,50,45.0,Completed,2.0
+A00073,2026-03-25,Orthopedics,34,0.0,Completed,3.0
+A00074,2026-01-24,General Medicine,71,39.0,Completed,5.0
+A00075,2026-05-05,General Medicine,57,26.0,Completed,3.0
+A00076,2026-03-28,Orthopedics,68,59.0,Completed,
+A00077,2026-03-01,General Medicine,25,26.0,Completed,4.0
+A00078,2026-02-11,Neurology,73,47.0,No-show,4.0
+A00079,2026-04-13,General Medicine,32,28.0,Completed,
+A00080,2026-05-02,Dental,48,37.0,No-show,1.0
+A00081,2026-06-20,Orthopedics,47,48.0,Cancelled,3.0
+A00082,2026-03-21,Orthopedics,73,27.0,Completed,3.0
+A00083,2026-01-30,Cardiology,36,53.0,Completed,2.0
+A00084,2026-05-31,Orthopedics,34,17.0,Completed,1.0
+A00085,2026-04-24,General Medicine,41,40.0,Completed,
+A00086,2026-05-07,Neurology,42,52.0,Completed,4.0
+A00087,2026-01-18,Cardiology,30,47.0,No-show,4.0
+A00088,2026-02-26,Dental,29,69.0,Completed,2.0
+A00089,2026-05-19,Cardiology,33,21.0,Completed,4.0
+A00090,2026-05-31,Cardiology,49,,Completed,4.0
+A00091,2026-03-20,General Medicine,41,17.0,Completed,5.0
+A00092,2026-05-26,Orthopedics,44,47.0,Completed,5.0
+A00093,2026-06-02,Dental,66,44.0,Completed,5.0
+A00094,2026-03-12,Neurology,34,37.0,Completed,1.0
+A00095,2026-06-12,Cardiology,79,15.0,Completed,4.0
+A00096,2026-02-22,Dental,69,49.0,Completed,
+A00097,2026-02-13,General Medicine,29,13.0,Completed,3.0
+A00098,2026-05-04,Neurology,39,56.0,Completed,4.0
+A00099,2026-04-26,General Medicine,30,86.0,Completed,4.0
+A00100,2026-01-26,Neurology,36,,Completed,3.0
+A00101,2026-05-31,Orthopedics,42,45.0,Completed,5.0
+A00102,2026-02-06,General Medicine,26,26.0,Completed,1.0
+A00103,2026-05-26,General Medicine,18,2.0,Completed,1.0
+A00104,2026-01-02,General Medicine,47,24.0,Completed,1.0
+A00105,2026-05-25,General Medicine,65,15.0,Completed,5.0
+A00106,2026-05-23,,38,9.0,completed,3.0
+A00107,2026-05-22,General Medicine,76,66.0,No-show,3.0
+A00108,2026-05-01,Cardiology,43,40.0,Completed,4.0
+A00109,2026-03-27,General Medicine,79,42.0,No-show,3.0
+A00110,2026-05-08,Orthopedics,34,29.0,Completed,3.0
+A00111,2026-02-20,Neurology,54,32.0,Completed,1.0
+A00112,2026-05-22,Neurology,69,52.0,Completed,1.0
+A00113,2026-04-11,General Medicine,22,34.0,Cancelled,5.0
+A00114,2026-03-25,General Medicine,81,,Cancelled,3.0
+A00115,2026-04-02,Dental,42,31.0,Completed,1.0
+A00116,2026-04-13,General Medicine,51,29.0,Cancelled,2.0
+A00117,2026-01-07,General Medicine,60,10.0,Completed,2.0
+A00118,2026-01-26,Dental,61,0.0,Completed,2.0
+A00119,2026-02-14,Cardiology,19,30.0,Completed,2.0
+A00120,2026-01-21,Cardiology,76,36.0,No-show,4.0
+A00121,2026-03-21,General Medicine,60,12.0,Completed,1.0
+A00122,2026-05-01,Orthopedics,85,34.0, CANCELLED ,2.0
+A00123,2026-04-29,General Medicine,50,36.0,Completed,3.0
+A00124,2026-03-27,Orthopedics,59,0.0,Completed,3.0
+A00125,2026-06-04,General Medicine,47,19.0,Completed,5.0
+A00126,2026-04-13,Orthopedics,78,42.0,Cancelled,5.0
+A00127,2026-01-15,General Medicine,74,42.0,Completed,2.0
+A00128,2026-05-19,Cardiology,79,14.0,Completed,3.0
+A00129,2026-04-15,Neurology,52,38.0,Completed,1.0
+A00130,2026-04-25,General Medicine,71,53.0,Completed,4.0
+A00131,2026-04-13,General Medicine,42,49.0,Completed,1.0
+A00132,2026-04-11,General Medicine,49,33.0,completed,1.0
+A00133,2026-01-17,Cardiology,69,27.0,Completed,4.0
+A00134,2026-04-12,Dental,23,24.0,Completed,1.0
+A00135,2026-05-24,Cardiology,66,43.0,Completed,3.0
+A00136,2026-02-25,Cardiology,19,39.0,NO-SHOW,1.0
+A00137,2026-04-20,Neurology,57,46.0,Completed,4.0
+A00138,2026-01-06,General Medicine,50,37.0,No-show,4.0
+A00139,2026-03-04,General Medicine,49,50.0,No-show,3.0
+A00140,2026-03-21,General Medicine,51,37.0,Completed,5.0
+A00141,2026-06-27,General Medicine,51,49.0,Completed,3.0
+A00142,2026-02-08,General Medicine,45,,Completed,1.0
+A00143,2026-02-20,Cardiology,48,21.0,Completed,1.0
+A00144,2026-03-15,Dental,56,2.0,Completed,2.0
+A00145,2026-06-29,Neurology,69,63.0,Completed,2.0
+A00146,2026-06-04,General Medicine,55,40.0,Completed,2.0
+A00147,2026-01-07,Cardiology,61,4.0,Completed,2.0
+A00148,2026-02-12,Orthopedics,74,22.0,No-show,3.0
+A00149,2026-05-29,Neurology,85,49.0,Completed,1.0
+A00150,2026-01-11,Cardiology,25,30.0,Completed,4.0
+A00151,2026-06-04,Orthopedics,66,26.0,No-show,2.0
+A00152,2026-02-20,General Medicine,33,60.0,Completed,4.0
+A00153,2026-06-16,,31,16.0,completed,3.0
+A00154,2026-02-23,Dental,71,21.0,Cancelled,5.0
+A00155,2026-03-20,General Medicine,22,39.0,Completed,3.0
+A00156,2026-04-30,Dental,75,42.0,Completed,
+A00157,2026-01-23,General Medicine,70,44.0,Completed,3.0
+A00158,2026-04-11,Dental,85,51.0,No-show,4.0
+A00159,2026-04-02,Neurology,63,39.0,Completed,3.0
+A00160,2026-05-22,Orthopedics,77,44.0,Completed,3.0
+A00161,2026-06-30,Dental,26,30.0,Completed,
+A00162,2026-05-01,General Medicine,78,36.0,Completed,2.0
+A00163,2026-03-16,Cardiology,28,37.0,Completed,2.0
+A00164,2026-03-15,Cardiology,39,39.0,Completed,5.0
+A00165,2026-03-17,Dental,26,49.0,Cancelled,4.0
+A00166,2026-05-28,General Medicine,45,45.0,Completed,1.0
+A00167,2026-02-28,General Medicine,68,36.0,Completed,5.0
+A00168,2026-01-31,General Medicine,36,20.0,Completed,4.0
+A00169,2026-03-02,Dental,73,36.0,Completed,1.0
+A00170,2026-01-05,Orthopedics,59,34.0,Completed,4.0
+A00171,2026-01-20,Cardiology,60,38.0,Completed,3.0
+A00172,2026-01-17,Neurology,81,75.0,Completed,5.0
+A00173,2026-05-20,General Medicine,47,26.0,Completed,3.0
+A00174,2026-05-11,General Medicine,41,43.0,Completed,3.0
+A00175,2026-05-07,Neurology,85,54.0,completed,2.0
+A00176,2026-03-25,Orthopedics,55,37.0,Completed,2.0
+A00177,2026-05-10,General Medicine,59,77.0,No-show,4.0
+A00178,2026-01-30,Orthopedics,38,28.0,Cancelled,5.0
+A00179,2026-06-13,Cardiology,32,41.0,No-show,5.0
+A00180,2026-04-01,Dental,29,21.0,No-show,4.0
+A00181,2026-06-19,Cardiology,33,29.0,Completed,4.0
+A00182,2026-01-28,Dental,31,39.0,No-show,3.0
+A00183,2026-04-01,Cardiology,68,50.0,Completed,2.0
+A00184,2026-05-07,Orthopedics,21,41.0,Completed,4.0
+A00185,2026-03-31,Neurology,60,58.0,Completed,2.0
+A00186,2026-03-22,Dental,82,33.0,Completed,2.0
+A00187,2026-01-31,Orthopedics,70,29.0,Completed,5.0
+A00188,2026-03-10,General Medicine,45,84.0,Completed,3.0
+A00189,2026-02-13,General Medicine,22,42.0,Completed,2.0
+A00190,2026-02-24,Orthopedics,74,22.0,Cancelled,
+A00191,2026-05-04,Dental,18,23.0,Completed,5.0
+A00192,2026-04-25,General Medicine,64,18.0,Completed,2.0
+A00193,2026-04-20,Dental,63,52.0,completed,3.0
+A00194,2026-03-07,Dental,31,28.0,Completed,3.0
+A00195,2026-06-23,General Medicine,68,37.0,Completed,4.0
+A00196,2026-01-16,Orthopedics,29,34.0,Completed,5.0
+A00197,2026-03-04,General Medicine,33,48.0,Completed,3.0
+A00198,2026-01-22,Neurology,73,20.0,Completed,4.0
+A00199,2026-03-03,Neurology,84,16.0,Cancelled,3.0
+A00200,2026-06-24,Dental,36,39.0,Cancelled,5.0
+A00201,2026-03-08,Dental,80,46.0,Completed,3.0
+A00202,2026-06-14,Dental,80,41.0,Completed,2.0
+A00203,2026-03-31,Cardiology,70,20.0,Cancelled,3.0
+A00204,2026-05-07,General Medicine,27,47.0,Completed,5.0
+A00205,2026-03-24,Dental,38,22.0,Completed,4.0
+A00206,2026-02-18,Neurology,64,26.0,Completed,1.0
+A00207,2026-05-19,General Medicine,85,18.0,Completed,
+A00208,2026-06-25,General Medicine,73,58.0,completed,3.0
+A00209,2026-02-17,Orthopedics,46,46.0,Completed,5.0
+A00210,2026-05-21,Orthopedics,33,46.0,Completed,3.0
+A00211,2026-02-17,General Medicine,83,57.0,Completed,3.0
+A00212,2026-05-10,Neurology,36,86.0,Completed,4.0
+A00213,2026-05-23,General Medicine,41,4.0,Completed,3.0
+A00214,2026-03-23,General Medicine,83,22.0,No-show,5.0
+A00215,2026-05-14,General Medicine,56,24.0,Completed,4.0
+A00216,2026-02-19,Cardiology,35,20.0,Completed,4.0
+A00217,2026-01-15,,18,16.0,Completed,4.0
+A00218,2026-01-18,Cardiology,47,30.0,Cancelled,4.0
+A00219,2026-03-22,Neurology,85,13.0,Completed,1.0
+A00220,2026-06-13,General Medicine,47,41.0,No-show,3.0
+A00221,2026-01-24,Orthopedics,65,36.0,Completed,1.0
+A00222,2026-03-24,Orthopedics,35,44.0,Completed,3.0
+A00223,2026-05-08,Cardiology,70,44.0,Completed,1.0
+A00224,2026-02-06,General Medicine,70,46.0,Completed,3.0
+A00225,2026-05-11,Cardiology,59,28.0,Cancelled,2.0
+A00226,2026-02-25,Cardiology,70,73.0,Cancelled,1.0
+A00227,2026-05-27,Dental,57,39.0,Completed,1.0
+A00228,2026-04-15,Cardiology,43,1.0,No-show,3.0
+A00229,2026-04-09,Orthopedics,68,,Completed,1.0
+A00230,2026-02-01,Orthopedics,74,4.0,Completed,5.0
+A00231,2026-03-25,Dental,75,35.0,Completed,4.0
+A00232,2026-06-05,Cardiology,32,33.0,Completed,4.0
+A00233,2026-01-04,Cardiology,64,27.0,Cancelled,1.0
+A00234,2026-05-18,Orthopedics,18,71.0,Completed,
+A00235,2026-03-31,Cardiology,56,45.0,Completed,4.0
+A00236,2026-05-11,Neurology,56,48.0,Completed,2.0
+A00237,2026-05-01,Dental,42,18.0,Completed,1.0
+A00238,2026-03-20,Dental,85,17.0,Completed,3.0
+A00239,2026-02-25,Orthopedics,78,36.0,Completed,4.0
+A00240,2026-04-24,Orthopedics,20,38.0,Completed,1.0
+A00241,2026-01-26,Cardiology,32,2.0,Completed,1.0
+A00242,2026-04-16,Cardiology,32,32.0,Completed,2.0
+A00243,2026-01-18,General Medicine,79,35.0,Completed,3.0
+A00244,2026-04-28,Cardiology,53,31.0,Completed,3.0
+A00245,2026-04-24,Orthopedics,67,20.0,Cancelled,3.0
+A00246,2026-01-16,Orthopedics,73,25.0,No-show,2.0
+A00247,2026-05-18,Dental,70,32.0,Completed,1.0
+A00248,2026-03-17,Orthopedics,24,37.0,NO-SHOW,1.0
+A00249,2026-05-23,General Medicine,27,46.0,Completed,1.0
+A00250,2026-01-08,General Medicine,44,54.0,Completed,4.0
+A00251,2026-02-02,Dental,41,30.0,Completed,4.0
+A00252,2026-03-31,Dental,68,27.0,Completed,3.0
+A00253,2026-02-04,Dental,28,43.0,Cancelled,1.0
+A00254,2026-03-01,Orthopedics,43,46.0,Completed,3.0
+A00255,2026-04-30,Neurology,34,27.0,Completed,5.0
+A00256,2026-01-27,Dental,30,49.0,Completed,2.0
+A00257,2026-05-03,Dental,29,53.0,Completed,3.0
+A00258,2026-01-19,General Medicine,31,58.0,Completed,3.0
+A00259,2026-02-01,Cardiology,56,67.0,Completed,2.0
+A00260,2026-04-17,Orthopedics,45,19.0,completed,3.0
+A00261,2026-05-24,General Medicine,47,35.0,Completed,3.0
+A00262,2026-01-31,Cardiology,50,35.0,Completed,3.0
+A00263,2026-02-24,Cardiology,68,33.0,Completed,4.0
+A00264,2026-06-17,Cardiology,76,23.0,Completed,3.0
+A00265,2026-06-29,General Medicine,53,8.0,Completed,
+A00266,2026-04-16,Cardiology,61,37.0,Completed,1.0
+A00267,2026-03-22,Cardiology,68,21.0,completed,3.0
+A00268,2026-03-04,Cardiology,64,37.0,completed,5.0
+A00269,2026-04-21,Cardiology,27,21.0,completed,1.0
+A00270,2026-04-17,Neurology,84,15.0,Completed,1.0
+A00271,2026-02-23,Dental,29,39.0,Completed,4.0
+A00272,2026-01-05,Neurology,46,38.0,Completed,3.0
+A00273,2026-01-28,Neurology,62,45.0,No-show,2.0
+A00274,2026-06-23,General Medicine,45,74.0,Cancelled,2.0
+A00275,2026-03-17,Cardiology,34,40.0,Completed,4.0
+A00276,2026-03-29,General Medicine,80,44.0,Completed,3.0
+A00277,2026-03-26,Neurology,22,16.0,Completed,4.0
+A00278,2026-05-22,Cardiology,34,12.0,No-show,2.0
+A00279,2026-01-12,General Medicine,85,63.0,Completed,3.0
+A00280,2026-01-15,General Medicine,67,18.0,Completed,5.0
+A00281,2026-02-19,Dental,23,16.0,No-show,2.0
+A00282,2026-03-30,General Medicine,69,34.0,Completed,2.0
+A00283,2026-05-02,Orthopedics,83,33.0,Completed,1.0
+A00284,2026-03-30,Neurology,24,19.0,Completed,4.0
+A00285,2026-03-21,General Medicine,46,30.0,Completed,1.0
+A00286,2026-06-19,Dental,49,57.0,Completed,2.0
+A00287,2026-01-30,General Medicine,26,20.0,Completed,4.0
+A00288,2026-04-14,Dental,31,10.0,No-show,1.0
+A00289,2026-04-09,General Medicine,29,52.0,No-show,5.0
+A00290,2026-03-27,Neurology,30,44.0,Completed,3.0
+A00291,2026-05-27,Dental,45,24.0,Completed,2.0
+A00292,2026-02-18,Orthopedics,49,7.0,Completed,3.0
+A00293,2026-06-22,Dental,34,22.0,Completed,4.0
+A00294,2026-03-02,Cardiology,37,34.0,Completed,3.0
+A00295,2026-04-09,Cardiology,31,56.0,Completed,5.0
+A00296,2026-04-05,Dental,72,16.0,Completed,5.0
+A00297,2026-06-03,Cardiology,32,33.0,Completed,2.0
+A00298,2026-03-21,Cardiology,79,47.0,Completed,
+A00299,2026-02-21,General Medicine,54,0.0,Completed,2.0
+A00300,2026-01-04,General Medicine,72,54.0,Completed,5.0
+A00301,2026-03-07,General Medicine,61,14.0,Cancelled,2.0
+A00302,2026-05-30,Dental,36,41.0,Completed,2.0
+A00303,2026-01-02,General Medicine,58,39.0,Cancelled,4.0
+A00304,2026-06-12,Neurology,36,55.0,Completed,4.0
+A00305,2026-04-09,Cardiology,26,45.0,Cancelled,1.0
+A00306,2026-01-26,Cardiology,35,0.0,Completed,
+A00307,2026-02-24,Neurology,36,21.0,Completed,2.0
+A00308,2026-04-11,Cardiology,27,37.0,No-show,4.0
+A00309,2026-02-27,Orthopedics,19,31.0,Completed,3.0
+A00310,2026-01-20,General Medicine,82,44.0,Completed,5.0
+A00311,2026-05-01,Cardiology,52,49.0,Completed,5.0
+A00312,2026-05-02,Cardiology,45,,Completed,4.0
+A00313,2026-01-22,General Medicine,81,31.0,Completed,4.0
+A00314,2026-02-20,Neurology,33,2.0,Completed,5.0
+A00315,2026-02-14,Cardiology,45,27.0,Cancelled,1.0
+A00316,2026-04-30,General Medicine,75,42.0,Completed,4.0
+A00317,2026-05-13,General Medicine,60,15.0,Completed,4.0
+A00318,2026-05-12,Orthopedics,45,46.0,Completed,1.0
+A00319,2026-06-19,Neurology,35,51.0,Cancelled,5.0
+A00320,2026-05-20,Dental,20,37.0,completed,4.0
+A00321,2026-02-28,Cardiology,23,0.0,Completed,2.0
+A00322,2026-01-20,Neurology,29,12.0,Completed,3.0
+A00323,2026-04-22,Dental,71,69.0,Completed,3.0
+A00324,2026-06-15,Neurology,61,25.0,Cancelled,5.0
+A00325,2026-06-26,General Medicine,47,0.0,Completed,5.0
+A00326,2026-02-11,Cardiology,71,57.0,Cancelled,5.0
+A00327,2026-02-12,Neurology,28,35.0,Completed,4.0
+A00328,2026-01-07,Dental,32,55.0,Completed,1.0
+A00329,2026-01-26,General Medicine,44,40.0,Completed,5.0
+A00330,2026-04-11,Dental,80,43.0,Completed,1.0
+A00331,2026-04-09,Neurology,59,42.0,Completed,1.0
+A00332,2026-03-09,Neurology,75,48.0,Completed,1.0
+A00333,2026-02-26,Orthopedics,34,76.0,Completed,5.0
+A00334,2026-05-31,Neurology,75,52.0,Completed,3.0
+A00335,2026-03-25,General Medicine,22,7.0,Completed,2.0
+A00336,2026-05-27,Neurology,33,43.0,Completed,1.0
+A00337,2026-06-24,General Medicine,53,56.0,Completed,3.0
+A00338,2026-02-27,General Medicine,21,57.0,Completed,4.0
+A00339,2026-02-06,Orthopedics,76,27.0,Completed,5.0
+A00340,2026-06-22,Orthopedics,76,56.0,Completed,3.0
+A00341,2026-04-25,Cardiology,54,52.0,Completed,4.0
+A00342,2026-02-22,General Medicine,38,81.0,Completed,5.0
+A00343,2026-04-23,Orthopedics,24,21.0,Completed,5.0
+A00344,2026-04-04,Orthopedics,60,26.0,Completed,2.0
+A00345,2026-06-13,Cardiology,54,29.0,Completed,5.0
+A00346,2026-02-16,General Medicine,69,26.0,Completed,3.0
+A00347,2026-06-29,Orthopedics,58,19.0,Completed,5.0
+A00348,2026-06-19,Neurology,26,0.0,Cancelled,1.0
+A00349,2026-02-02,Cardiology,26,27.0,Completed,1.0
+A00350,2026-01-30,General Medicine,71,42.0,Cancelled,5.0
+A00351,2026-04-07,Cardiology,28,26.0,Completed,4.0
+A00352,2026-01-09,Cardiology,81,70.0,completed,1.0
+A00353,2026-02-24,General Medicine,25,35.0,Completed,
+A00354,2026-03-20,General Medicine,67,58.0,Completed,1.0
+A00355,2026-06-25,Dental,84,40.0,No-show,4.0
+A00356,2026-06-29,Orthopedics,48,50.0,Completed,2.0
+A00357,2026-01-28,General Medicine,21,40.0,No-show,1.0
+A00358,2026-06-11,General Medicine,77,60.0,Completed,5.0
+A00359,2026-01-17,Dental,30,36.0,Cancelled,5.0
+A00360,2026-05-16,Orthopedics,53,44.0,No-show,
+A00361,2026-06-03,General Medicine,84,42.0,Completed,1.0
+A00362,2026-06-11,General Medicine,68,30.0,Completed,4.0
+A00363,2026-02-10,General Medicine,21,42.0,Completed,1.0
+A00364,2026-06-11,Neurology,73,75.0,Completed,4.0
+A00365,2026-01-21,Cardiology,28,30.0,No-show,5.0
+A00366,2026-04-04,General Medicine,68,-10.0,Completed,4.0
+A00367,2026-03-26,General Medicine,60,-10.0,Completed,2.0
+A00368,2026-02-27,General Medicine,37,56.0,Completed,1.0
+A00369,2026-01-05,Cardiology,46,35.0,Completed,4.0
+A00370,2026-05-20,Dental,26,0.0,No-show,1.0
+A00371,2026-03-02,General Medicine,85,44.0,Completed,3.0
+A00372,2026-04-30,Cardiology,34,0.0,Completed,3.0
+A00373,2026-03-16,General Medicine,38,61.0,No-show,4.0
+A00374,2026-03-09,Dental,52,38.0,Completed,2.0
+A00375,2026-06-10,General Medicine,63,53.0,Completed,4.0
+A00376,2026-01-18,General Medicine,52,19.0,Completed,4.0
+A00377,2026-05-14,Orthopedics,52,7.0,Completed,2.0
+A00378,2026-05-16,Dental,57,40.0,Completed,2.0
+A00379,2026-03-10,Neurology,76,34.0,Cancelled,1.0
+A00380,2026-02-17,Neurology,44,26.0,Completed,
+A00381,2026-01-01,Orthopedics,74,37.0,No-show,2.0
+A00382,2026-06-19,Neurology,71,85.0,Cancelled,1.0
+A00383,2026-06-21,General Medicine,83,50.0,Cancelled,3.0
+A00384,2026-02-13,Orthopedics,80,54.0,Completed,3.0
+A00385,2026-01-06,Cardiology,72,50.0,Completed,1.0
+A00386,2026-01-23,Dental,34,62.0,Completed,1.0
+A00387,2026-01-13,Orthopedics,70,32.0,Completed,1.0
+A00388,2026-05-31,Cardiology,68,0.0,Completed,4.0
+A00389,2026-06-11,Cardiology,37,32.0,Completed,2.0
+A00390,2026-01-28,Neurology,64,50.0,Completed,1.0
+A00391,2026-05-16,Dental,35,18.0,Completed,1.0
+A00392,2026-02-02,General Medicine,53,32.0,Completed,5.0
+A00393,2026-03-08,Dental,72,23.0,Completed,2.0
+A00394,2026-04-19,Cardiology,30,62.0,Completed,4.0
+A00395,2026-05-11,General Medicine,40,48.0,Cancelled,3.0
+A00396,2026-06-08,General Medicine,72,47.0,Completed,1.0
+A00397,2026-01-09,Dental,48,46.0,Cancelled,2.0
+A00398,2026-02-05,Dental,83,,Cancelled,1.0
+A00399,2026-02-20,Cardiology,18,39.0,Completed,4.0
+A00400,2026-02-26,Orthopedics,67,14.0,Completed,2.0
+A00401,2026-06-30,Orthopedics,73,0.0,Completed,3.0
+A00402,2026-05-21,Dental,80,38.0,Completed,1.0
+A00403,2026-02-27,Cardiology,28,41.0,Completed,5.0
+A00404,2026-06-25,Orthopedics,84,57.0,Completed,2.0
+A00405,2026-04-01,General Medicine,44,63.0,Cancelled,3.0
+A00406,2026-04-01,Neurology,41,63.0,No-show,5.0
+A00407,2026-03-20,Orthopedics,42,17.0,Cancelled,4.0
+A00408,2026-01-27,Cardiology,61,29.0,Completed,4.0
+A00409,2026-06-19,Dental,62,44.0,Completed,5.0
+A00410,2026-01-03,Dental,50,81.0,No-show,1.0
+A00411,2026-02-01,General Medicine,22,62.0,Completed,5.0
+A00412,2026-02-11,General Medicine,85,55.0,Completed,3.0
+A00413,2026-02-20,General Medicine,33,28.0,Completed,3.0
+A00414,2026-01-24,General Medicine,24,19.0,Completed,2.0
+A00415,2026-01-04,General Medicine,58,49.0,Completed,4.0
+A00416,2026-05-03,General Medicine,46,15.0,Completed,5.0
+A00417,2026-06-25,Cardiology,59,,Completed,4.0
+A00418,2026-01-23,Cardiology,77,33.0,Completed,1.0
+A00419,2026-02-23,Dental,24,64.0,Completed,3.0
+A00420,2026-04-02,Neurology,37,29.0,Completed,4.0
+A00421,2026-06-17,Cardiology,53,0.0,completed,2.0
+A00422,2026-05-06,General Medicine,71,44.0,Cancelled,4.0
+A00423,2026-05-19,Neurology,58,22.0,Completed,4.0
+A00424,2026-04-16,Orthopedics,44,36.0,Completed,1.0
+A00425,2026-03-17,Cardiology,59,33.0,Cancelled,3.0
+A00426,2026-02-06,Dental,84,30.0,Completed,1.0
+A00427,2026-06-06,Cardiology,50,49.0,Cancelled,3.0
+A00428,2026-05-26,General Medicine,78,7.0,Completed,2.0
+A00429,2026-01-05,Neurology,71,26.0,Completed,5.0
+A00430,2026-05-10,General Medicine,38,47.0,Completed,5.0
+A00431,2026-01-16,,34,24.0,Completed,3.0
+A00432,2026-05-14,Dental,70,6.0,NO-SHOW,3.0
+A00433,2026-05-30,Orthopedics,32,47.0,Cancelled,
+A00434,2026-01-24,General Medicine,40,55.0,No-show,4.0
+A00435,2026-03-20,General Medicine,34,34.0,No-show,4.0
+A00436,2026-01-23,Dental,59,0.0,Completed,4.0
+A00437,2026-04-13,General Medicine,38,48.0,Cancelled,5.0
+A00438,2026-06-17,Cardiology,62,5.0,Completed,5.0
+A00439,2026-01-15,General Medicine,81,41.0,Cancelled,1.0
+A00440,2026-03-13,Cardiology,74,19.0,Completed,3.0
+A00441,2026-06-26,Dental,82,14.0,Completed,3.0
+A00442,2026-02-24,General Medicine,19,27.0,Cancelled,3.0
+A00443,2026-01-24,Cardiology,48,32.0, CANCELLED ,3.0
+A00444,2026-03-30,Orthopedics,32,23.0,completed,4.0
+A00445,2026-04-03,Orthopedics,80,46.0,Completed,3.0
+A00446,2026-04-30,Dental,66,27.0,Completed,2.0
+A00447,2026-02-26,General Medicine,39,53.0,No-show,3.0
+A00448,2026-06-22,General Medicine,56,40.0,Completed,5.0
+A00449,2026-04-05,General Medicine,59,22.0,Completed,2.0
+A00450,2026-02-21,Dental,51,19.0,Completed,1.0
+A00451,2026-06-23,Orthopedics,50,5.0,Completed,5.0
+A00452,2026-06-17,Dental,21,40.0,Completed,1.0
+A00453,2026-04-01,Dental,48,29.0,completed,4.0
+A00454,2026-01-05,Cardiology,41,0.0,Cancelled,5.0
+A00455,2026-04-19,General Medicine,73,25.0,No-show,2.0
+A00456,2026-04-11,General Medicine,76,19.0,No-show,2.0
+A00457,2026-01-27,General Medicine,69,63.0,Completed,2.0
+A00458,2026-04-25,Orthopedics,20,4.0,Completed,1.0
+A00459,2026-06-02,Orthopedics,75,9.0,Completed,1.0
+A00460,2026-01-20,Orthopedics,44,55.0,Cancelled,1.0
+A00461,2026-05-11,Orthopedics,46,59.0,Completed,3.0
+A00462,2026-01-26,Orthopedics,82,22.0,Completed,3.0
+A00463,2026-05-16,Cardiology,76,24.0,Completed,1.0
+A00464,2026-03-17,Cardiology,21,46.0,Completed,5.0
+A00465,2026-01-02,General Medicine,42,0.0,Completed,4.0
+A00466,2026-06-24,Orthopedics,68,1.0,Completed,1.0
+A00467,2026-01-31,General Medicine,54,30.0,Completed,5.0
+A00468,2026-04-18,Cardiology,35,63.0,completed,1.0
+A00469,2026-02-02,Neurology,53,27.0,Completed,3.0
+A00470,2026-06-18,Dental,76,37.0,Cancelled,3.0
+A00471,2026-05-14,Dental,33,55.0,Completed,3.0
+A00472,2026-05-26,Cardiology,68,73.0,Completed,5.0
+A00473,2026-03-20,Cardiology,67,25.0,Cancelled,5.0
+A00474,2026-03-26,General Medicine,78,35.0,Completed,2.0
+A00475,2026-04-25,Dental,38,68.0,Cancelled,3.0
+A00476,2026-05-23,Neurology,32,,Completed,5.0
+A00477,2026-06-03,Orthopedics,55,53.0,Cancelled,4.0
+A00478,2026-01-04,Orthopedics,54,17.0,Completed,5.0
+A00479,2026-05-01,Orthopedics,45,37.0,Completed,3.0
+A00480,2026-01-20,Cardiology,70,31.0,Completed,2.0
+A00481,2026-02-22,General Medicine,72,18.0,Completed,3.0
+A00482,2026-05-31,General Medicine,34,17.0,Completed,5.0
+A00483,2026-02-15,General Medicine,72,40.0,Completed,5.0
+A00484,2026-05-25,Orthopedics,33,53.0,Completed,4.0
+A00485,2026-03-25,Cardiology,45,33.0,Cancelled,4.0
+A00486,2026-02-12,General Medicine,19,36.0,Completed,3.0
+A00487,2026-03-02,Dental,41,45.0,Completed,2.0
+A00488,2026-04-07,Cardiology,83,18.0,No-show,3.0
+A00489,2026-05-19,Dental,48,48.0,Completed,
+A00490,2026-04-20,General Medicine,66,50.0,No-show,5.0
+A00491,2026-06-18,Neurology,25,82.0,No-show,3.0
+A00492,2026-06-07,General Medicine,61,28.0,No-show,
+A00493,2026-05-17,General Medicine,43,27.0,Cancelled,1.0
+A00494,2026-04-20,Dental,68,49.0,Completed,4.0
+A00495,2026-02-22,General Medicine,81,50.0,completed,3.0
+A00496,2026-03-16,Orthopedics,54,,completed,5.0
+A00497,2026-01-22,Neurology,24,28.0,Cancelled,3.0
+A00498,2026-03-09,Cardiology,50,,Completed,3.0
+A00499,2026-06-17,General Medicine,26,20.0,Cancelled,1.0
+A00500,2026-03-19,Dental,48,28.0,Completed,5.0
+A00501,2026-01-21,Cardiology,22,37.0,Completed,4.0
+A00502,2026-04-28,Orthopedics,61,53.0,Completed,5.0
+A00503,2026-06-24,Cardiology,39,24.0,Completed,1.0
+A00504,2026-06-07,Cardiology,31,2.0,Completed,2.0
+A00505,2026-02-19,Neurology,19,1.0,Completed,5.0
+A00506,2026-03-24,Orthopedics,78,12.0,Cancelled,1.0
+A00507,2026-04-07,General Medicine,74,11.0,Completed,3.0
+A00508,2026-02-14,Dental,73,32.0,Completed,3.0
+A00509,2026-02-18,General Medicine,21,14.0,Completed,5.0
+A00510,2026-02-12,Orthopedics,41,22.0,Completed,5.0
+A00511,2026-06-30,Neurology,84,21.0,Completed,5.0
+A00512,2026-05-16,Neurology,57,27.0,Completed,2.0
+A00513,2026-06-02,Orthopedics,26,59.0,Cancelled,3.0
+A00514,2026-05-28,General Medicine,27,47.0,Completed,4.0
+A00515,2026-06-23,Dental,35,35.0,Completed,5.0
+A00516,2026-01-20,Cardiology,84,27.0,Completed,1.0
+A00517,2026-06-09,Neurology,29,27.0,Completed,5.0
+A00518,2026-01-13,General Medicine,79,41.0,Cancelled,2.0
+A00519,2026-03-28,Cardiology,64,46.0,Completed,1.0
+A00520,2026-04-18,Orthopedics,80,19.0,Cancelled,4.0
+A00521,2026-03-06,General Medicine,74,36.0,Completed,4.0
+A00522,2026-01-27,General Medicine,40,0.0,Completed,1.0
+A00523,2026-02-04,General Medicine,74,39.0,Completed,1.0
+A00524,2026-05-30,Orthopedics,29,49.0,Completed,5.0
+A00525,2026-02-27,Neurology,37,30.0,No-show,5.0
+A00526,2026-02-26,Dental,32,68.0,Completed,1.0
+A00527,2026-06-17,General Medicine,27,19.0,Cancelled,5.0
+A00528,2026-01-27,Dental,24,39.0,Cancelled,5.0
+A00529,2026-06-15,General Medicine,30,34.0,completed,5.0
+A00530,2026-06-16,Orthopedics,26,33.0,Completed,2.0
+A00531,2026-04-19,Neurology,43,33.0,Completed,3.0
+A00532,2026-01-30,General Medicine,22,37.0,Completed,5.0
+A00533,2026-01-29,Orthopedics,22,50.0,Cancelled,5.0
+A00534,2026-02-21,General Medicine,85,60.0,Completed,4.0
+A00535,2026-04-15,Orthopedics,23,35.0,No-show,1.0
+A00536,2026-01-28,Neurology,23,50.0,completed,1.0
+A00537,2026-03-24,Dental,20,22.0,completed,2.0
+A00538,2026-01-21,Orthopedics,27,49.0,Completed,1.0
+A00539,2026-04-08,Orthopedics,53,21.0,Completed,1.0
+A00540,2026-01-04,Cardiology,74,,NO-SHOW,1.0
+A00541,2026-05-09,Cardiology,67,75.0,Completed,4.0
+A00542,2026-01-11,Neurology,57,,No-show,
+A00543,2026-02-05,Neurology,23,0.0,Cancelled,3.0
+A00544,2026-02-01,Neurology,70,25.0,Cancelled,5.0
+A00545,2026-05-31,Cardiology,20,57.0,Completed,3.0
+A00546,2026-01-10,Dental,60,45.0,Cancelled,3.0
+A00547,2026-03-19,Cardiology,45,39.0,Completed,2.0
+A00548,2026-04-17,General Medicine,77,53.0,Cancelled,
+A00549,2026-04-04,General Medicine,38,44.0,Completed,1.0
+A00550,2026-05-04,Dental,61,57.0,Completed,3.0
+A00551,2026-05-26,Neurology,47,52.0,Completed,5.0
+A00552,2026-03-13,Cardiology,53,62.0,Completed,3.0
+A00553,2026-05-30,Dental,81,41.0,Completed,2.0
+A00554,2026-02-27,Cardiology,66,51.0,Cancelled,4.0
+A00555,2026-06-28,Dental,46,29.0,Completed,5.0
+A00556,2026-04-02,Neurology,48,24.0,Completed,3.0
+A00557,2026-05-14,General Medicine,65,66.0,Completed,2.0
+A00558,2026-06-08,Dental,41,39.0,Cancelled,4.0
+A00559,2026-05-24,Orthopedics,29,49.0,Cancelled,1.0
+A00560,2026-06-04,General Medicine,49,37.0,Completed,5.0
+A00561,2026-04-08,General Medicine,22,24.0,Completed,2.0
+A00562,2026-01-08,Neurology,29,35.0,No-show,2.0
+A00563,2026-03-31,Dental,46,61.0,Cancelled,4.0
+A00564,2026-02-02,Neurology,72,45.0,completed,1.0
+A00565,2026-06-10,Dental,71,4.0,Completed,
+A00566,2026-02-12,General Medicine,35,31.0,Cancelled,1.0
+A00567,2026-02-11,Orthopedics,46,67.0,Completed,2.0
+A00568,2026-02-15,Neurology,28,31.0,Cancelled,3.0
+A00569,2026-04-27,Cardiology,69,3.0,Completed,1.0
+A00570,2026-04-14,Orthopedics,34,69.0,Cancelled,2.0
+A00571,2026-06-21,General Medicine,72,47.0,Completed,4.0
+A00572,2026-03-17,Neurology,75,34.0,Completed,5.0
+A00573,2026-02-21,Orthopedics,64,28.0,No-show,1.0
+A00574,2026-01-09,General Medicine,40,54.0,Cancelled,4.0
+A00575,2026-01-02,General Medicine,82,25.0,Cancelled,1.0
+A00576,2026-03-09,Dental,64,56.0,No-show,3.0
+A00577,2026-06-17,Orthopedics,61,45.0,Completed,5.0
+A00578,2026-04-05,Orthopedics,76,39.0,Completed,4.0
+A00579,2026-06-11,Neurology,77,38.0,Completed,2.0
+A00580,2026-01-19,Dental,23,32.0,Completed,2.0
+A00581,2026-01-17,Dental,77,54.0,Completed,4.0
+A00582,2026-05-31,General Medicine,70,19.0,No-show,5.0
+A00583,2026-01-20,General Medicine,32,6.0,Completed,2.0
+A00584,2026-01-10,General Medicine,38,46.0,Completed,1.0
+A00585,2026-03-15,General Medicine,69,46.0,Completed,3.0
+A00586,2026-06-17,General Medicine,32,44.0,Completed,4.0
+A00587,2026-05-05,General Medicine,48,42.0,Completed,3.0
+A00588,2026-01-18,General Medicine,64,29.0,Completed,5.0
+A00589,2026-06-01,Orthopedics,62,49.0,Completed,5.0
+A00590,2026-06-02,Orthopedics,79,34.0,Completed,
+A00591,2026-05-25,Dental,25,26.0,Cancelled,1.0
+A00592,2026-06-13,Neurology,38,29.0,Completed,5.0
+A00593,2026-02-13,Dental,84,71.0,Completed,4.0
+A00594,2026-06-27,Dental,56,4.0,Completed,2.0
+A00595,2026-02-28,Neurology,34,44.0,Completed,3.0
+A00596,2026-05-26,Orthopedics,37,5.0,Completed,5.0
+A00597,2026-04-15,Dental,41,33.0,No-show,5.0
+A00598,2026-05-22,General Medicine,55,27.0,Completed,3.0
+A00599,2026-04-24,General Medicine,37,0.0,Completed,1.0
+A00600,2026-04-27,Cardiology,60,42.0,Completed,4.0
+A00601,2026-04-22,Cardiology,48,28.0,Cancelled,4.0
+A00602,2026-05-21,Dental,59,,Completed,1.0
+A00603,2026-05-14,General Medicine,28,50.0,Completed,5.0
+A00604,2026-01-25,General Medicine,60,61.0, CANCELLED ,2.0
+A00605,2026-05-30,Cardiology,80,62.0,Completed,5.0
+A00606,2026-04-08,General Medicine,27,41.0,Completed,3.0
+A00607,2026-02-28,Cardiology,40,36.0,Completed,2.0
+A00608,2026-04-04,Orthopedics,65,59.0,Completed,1.0
+A00609,2026-06-25,General Medicine,59,65.0,No-show,1.0
+A00610,2026-06-05,Cardiology,63,55.0,Completed,4.0
+A00611,2026-05-31,Cardiology,56,18.0,Completed,2.0
+A00612,2026-03-25,Orthopedics,64,39.0,Completed,5.0
+A00613,2026-05-22,Neurology,59,43.0,Completed,2.0
+A00614,2026-03-11,General Medicine,23,2.0, CANCELLED ,5.0
+A00615,2026-05-05,General Medicine,69,43.0,Completed,5.0
+A00616,2026-04-26,Cardiology,48,76.0,Cancelled,1.0
+A00617,2026-02-15,Cardiology,21,47.0,Completed,4.0
+A00618,2026-02-18,General Medicine,45,62.0,Completed,5.0
+A00619,2026-01-12,Dental,47,38.0,Completed,2.0
+A00620,2026-01-26,General Medicine,23,34.0,Cancelled,
+A00621,2026-03-20,Neurology,85,42.0,Completed,5.0
+A00622,2026-03-28,Cardiology,33,20.0,completed,3.0
+A00623,2026-01-30,General Medicine,40,18.0,Cancelled,
+A00624,2026-03-17,Cardiology,47,58.0,Completed,5.0
+A00625,2026-04-20,Orthopedics,74,60.0,Completed,4.0
+A00626,2026-02-12,Neurology,68,17.0,Completed,1.0
+A00627,2026-03-03,Orthopedics,70,52.0,Cancelled,2.0
+A00628,2026-03-08,Neurology,34,33.0,Completed,1.0
+A00629,2026-04-02,Neurology,75,,Completed,5.0
+A00630,2026-03-08,General Medicine,74,43.0,Completed,1.0
+A00631,2026-05-14,General Medicine,49,53.0,completed,4.0
+A00632,2026-03-01,Orthopedics,55,36.0,completed,3.0
+A00633,2026-03-20,Cardiology,20,60.0,Completed,3.0
+A00634,2026-03-10,General Medicine,69,41.0,Completed,5.0
+A00635,2026-02-03,General Medicine,83,46.0,Completed,5.0
+A00636,2026-05-05,Dental,50,20.0,Cancelled,1.0
+A00637,2026-02-12,Orthopedics,54,74.0,completed,1.0
+A00638,2026-02-23,Orthopedics,51,43.0,Completed,1.0
+A00639,2026-05-24,Cardiology,23,48.0,No-show,4.0
+A00640,2026-06-21,Neurology,60,6.0,Cancelled,3.0
+A00641,2026-05-02,Dental,67,-10.0,Completed,1.0
+A00642,2026-06-15,General Medicine,81,57.0,Completed,2.0
+A00643,2026-06-04,General Medicine,81,40.0,Completed,
+A00644,2026-03-29,General Medicine,51,1.0,Completed,4.0
+A00645,2026-05-20,Orthopedics,83,,Completed,2.0
+A00646,2026-03-01,Dental,53,25.0,Completed,5.0
+A00647,2026-03-25,General Medicine,61,60.0,Completed,5.0
+A00648,2026-04-07,General Medicine,58,33.0,Completed,4.0
+A00649,2026-06-23,Orthopedics,85,39.0,Completed,3.0
+A00650,2026-06-03,General Medicine,68,56.0,Completed,5.0
+A00651,2026-03-30,Cardiology,26,19.0,Completed,4.0
+A00652,2026-04-29,General Medicine,22,-10.0,Cancelled,3.0
+A00653,2026-02-06,Cardiology,45,31.0,Cancelled,3.0
+A00654,2026-05-26,Cardiology,53,50.0,Completed,5.0
+A00655,2026-04-11,Orthopedics,63,11.0,Completed,3.0
+A00656,2026-04-07,Cardiology,50,5.0,Completed,1.0
+A00657,2026-05-19,Cardiology,52,50.0,Completed,5.0
+A00658,2026-04-25,Cardiology,80,24.0,Completed,1.0
+A00659,2026-01-14,Orthopedics,40,28.0,Completed,4.0
+A00660,2026-02-22,General Medicine,51,2.0,Completed,4.0
+A00661,2026-02-01,Cardiology,55,,Completed,3.0
+A00662,2026-05-14,Neurology,49,,Completed,1.0
+A00663,2026-01-07,General Medicine,83,52.0,Completed,3.0
+A00664,2026-02-06,Cardiology,83,21.0,Completed,5.0
+A00665,2026-04-19,Cardiology,52,,No-show,2.0
+A00666,2026-05-06,General Medicine,48,23.0,Completed,4.0
+A00667,2026-04-02,General Medicine,58,23.0,Completed,5.0
+A00668,2026-06-05,Orthopedics,30,63.0,Completed,5.0
+A00669,2026-06-16,General Medicine,46,39.0,Completed,3.0
+A00670,2026-01-24,Cardiology,32,25.0,Completed,2.0
+A00671,2026-06-22,Orthopedics,27,32.0,Completed,4.0
+A00672,2026-04-22,General Medicine,24,59.0,Cancelled,3.0
+A00673,2026-04-26,Dental,57,61.0,Completed,4.0
+A00674,2026-01-18,General Medicine,18,20.0,Completed,4.0
+A00675,2026-04-23,Orthopedics,61,34.0,Completed,4.0
+A00676,2026-05-12,General Medicine,47,37.0,Completed,
+A00677,2026-04-16,Orthopedics,42,17.0,Completed,4.0
+A00678,2026-01-16,Dental,70,34.0,Cancelled,3.0
+A00679,2026-04-05,Dental,54,35.0,Completed,5.0
+A00680,2026-06-19,Dental,67,56.0,Completed,4.0
+A00681,2026-05-11,General Medicine,66,57.0,Completed,5.0
+A00682,2026-01-25,Cardiology,20,29.0,Completed,5.0
+A00683,2026-06-23,Cardiology,32,31.0,Completed,5.0
+A00684,2026-06-23,Cardiology,56,47.0,Completed,4.0
+A00685,2026-01-31,Cardiology,84,24.0,Completed,3.0
+A00686,2026-05-25,General Medicine,28,46.0,Completed,1.0
+A00687,2026-03-15,Orthopedics,25,33.0,Completed,2.0
+A00688,2026-04-18,General Medicine,81,18.0,Cancelled,3.0
+A00689,2026-03-22,Cardiology,83,18.0,Cancelled,4.0
+A00690,2026-05-22,Neurology,29,61.0,No-show,3.0
+A00691,2026-06-30,Orthopedics,45,32.0,Cancelled,3.0
+A00692,2026-05-24,Orthopedics,60,65.0,Cancelled,1.0
+A00693,2026-06-18,General Medicine,31,26.0,Cancelled,
+A00694,2026-06-21,General Medicine,40,40.0,Completed,3.0
+A00695,2026-01-17,General Medicine,44,78.0,Cancelled,
+A00696,2026-02-15,Cardiology,61,16.0,No-show,2.0
+A00697,2026-05-11,Dental,38,1.0,Completed,5.0
+A00698,2026-04-17,Neurology,46,58.0,Completed,1.0
+A00699,2026-01-10,Dental,37,20.0,Completed,3.0
+A00700,2026-01-18,General Medicine,69,,Cancelled,3.0
+A00701,2026-04-05,Neurology,28,24.0,Completed,1.0
+A00702,2026-04-22,Neurology,33,40.0, CANCELLED ,1.0
+A00703,2026-01-31,General Medicine,34,18.0,Cancelled,5.0
+A00704,2026-02-01,General Medicine,79,32.0,No-show,3.0
+A00705,2026-01-24,Cardiology,82,,Completed,2.0
+A00706,2026-04-13,Cardiology,52,17.0,Completed,1.0
+A00707,2026-01-02,Neurology,28,22.0,Cancelled,3.0
+A00708,2026-04-14,Orthopedics,69,29.0,No-show,4.0
+A00709,2026-03-28,Dental,51,9.0,No-show,4.0
+A00710,2026-03-26,Orthopedics,75,27.0,Completed,1.0
+A00711,2026-05-03,General Medicine,42,,Completed,4.0
+A00712,2026-04-05,General Medicine,85,28.0,Completed,5.0
+A00713,2026-05-12,Neurology,72,30.0,No-show,2.0
+A00714,2026-05-19,,33,35.0,Completed,1.0
+A00715,2026-06-16,Dental,67,23.0,Completed,5.0
+A00716,2026-05-25,Orthopedics,37,47.0,Cancelled,3.0
+A00717,2026-04-04,Dental,41,61.0,Completed,4.0
+A00718,2026-03-31,Neurology,35,27.0,Completed,2.0
+A00719,2026-02-12,Neurology,64,44.0,Completed,2.0
+A00720,2026-04-19,Cardiology,35,31.0,Cancelled,2.0
+A00721,2026-01-26,Cardiology,61,42.0,Completed,2.0
+A00722,2026-06-18,Dental,57,63.0,completed,3.0
+A00723,2026-06-02,General Medicine,69,44.0,Completed,1.0
+A00724,2026-01-22,Neurology,85,3.0,Completed,5.0
+A00725,2026-05-23,Cardiology,18,43.0,Cancelled,3.0
+A00726,2026-01-22,General Medicine,85,57.0,Completed,5.0
+A00727,2026-05-11,Orthopedics,25,31.0,Completed,3.0
+A00728,2026-01-16,Orthopedics,53,53.0,Completed,2.0
+A00729,2026-03-30,General Medicine,41,23.0,Completed,3.0
+A00730,2026-04-30,Cardiology,61,8.0,Completed,1.0
+A00731,2026-05-12,Dental,67,38.0,Cancelled,5.0
+A00732,2026-03-17,Neurology,76,3.0,Completed,4.0
+A00733,2026-06-16,Cardiology,45,31.0,Completed,1.0
+A00734,2026-05-21,Neurology,81,58.0,Completed,3.0
+A00735,2026-02-07,Dental,39,1.0,Completed,3.0
+A00736,2026-05-02,Cardiology,31,12.0,No-show,
+A00737,2026-05-13,Dental,43,16.0,Completed,1.0
+A00738,2026-03-02,Orthopedics,53,34.0,No-show,4.0
+A00739,2026-05-14,Cardiology,63,28.0,Completed,2.0
+A00740,2026-06-12,Cardiology,74,60.0,Completed,3.0
+A00741,2026-05-28,General Medicine,33,52.0,Completed,2.0
+A00742,2026-05-19,Dental,38,44.0,Completed,4.0
+A00743,2026-04-25,Dental,81,38.0,Cancelled,1.0
+A00744,2026-02-18,Cardiology,47,42.0,Completed,2.0
+A00745,2026-05-24,Dental,34,19.0,Completed,3.0
+A00746,2026-03-07,Dental,85,50.0,completed,3.0
+A00747,2026-04-07,Neurology,48,15.0,Completed,4.0
+A00748,2026-02-26,Dental,84,50.0,No-show,1.0
+A00749,2026-02-26,General Medicine,80,56.0,No-show,3.0
+A00750,2026-01-29,General Medicine,79,39.0,Completed,4.0
+A00751,2026-06-23,Cardiology,57,32.0,Cancelled,2.0
+A00752,2026-01-27,Cardiology,72,42.0,Cancelled,1.0
+A00753,2026-01-16,Cardiology,83,0.0,Completed,5.0
+A00754,2026-06-19,Neurology,36,40.0,Completed,4.0
+A00755,2026-04-11,Cardiology,20,33.0,Completed,4.0
+A00756,2026-03-21,General Medicine,39,,Cancelled,4.0
+A00757,2026-05-14,General Medicine,61,48.0,No-show,4.0
+A00758,2026-03-11,General Medicine,55,34.0,Completed,4.0
+A00759,2026-01-24,Orthopedics,23,14.0,Cancelled,3.0
+A00760,2026-05-13,General Medicine,56,32.0,No-show,1.0
+A00761,2026-02-01,Cardiology,29,36.0,Completed,3.0
+A00762,2026-04-11,Orthopedics,52,37.0,Completed,2.0
+A00763,2026-06-21,Dental,57,38.0,No-show,4.0
+A00764,2026-06-19,General Medicine,61,54.0,No-show,3.0
+A00765,2026-03-07,Neurology,46,15.0,Completed,5.0
+A00766,2026-05-22,General Medicine,45,38.0,Completed,3.0
+A00767,2026-04-21,Cardiology,64,58.0,Completed,3.0
+A00768,2026-03-28,General Medicine,68,4.0,Completed,5.0
+A00769,2026-01-26,Orthopedics,72,38.0,Completed,3.0
+A00770,2026-03-10,Orthopedics,40,24.0,Completed,2.0
+A00771,2026-04-28,General Medicine,46,28.0,Completed,2.0
+A00772,2026-06-28,Orthopedics,40,19.0,Completed,5.0
+A00773,2026-01-01,Orthopedics,53,32.0,Completed,4.0
+A00774,2026-05-10,Neurology,26,68.0,Completed,1.0
+A00775,2026-06-03,Cardiology,47,12.0,Cancelled,3.0
+A00776,2026-06-22,Dental,30,14.0,Completed,2.0
+A00777,2026-03-18,Cardiology,54,12.0,Completed,4.0
+A00778,2026-01-22,Cardiology,75,66.0,Completed,1.0
+A00779,2026-02-19,General Medicine,85,27.0,Completed,4.0
+A00780,2026-06-03,Neurology,48,35.0,Completed,4.0
+A00781,2026-06-08,Dental,21,28.0,Completed,2.0
+A00782,2026-04-26,Orthopedics,33,18.0,Completed,1.0
+A00783,2026-01-23,Orthopedics,25,31.0,Completed,4.0
+A00784,2026-01-23,Neurology,69,79.0,Completed,2.0
+A00785,2026-03-28,General Medicine,84,60.0,Completed,5.0
+A00786,2026-04-17,General Medicine,55,20.0,No-show,4.0
+A00787,2026-01-06,Orthopedics,30,47.0,Cancelled,5.0
+A00788,2026-05-05,Dental,19,20.0,Completed,
+A00789,2026-04-09,Orthopedics,84,3.0,Completed,5.0
+A00790,2026-01-03,Neurology,39,53.0,Completed,1.0
+A00791,2026-01-18,Orthopedics,25,56.0,Completed,2.0
+A00792,2026-03-24,Neurology,30,54.0,Completed,1.0
+A00793,2026-05-11,Neurology,35,27.0,Completed,4.0
+A00794,2026-05-30,Dental,62,32.0,Completed,3.0
+A00795,2026-03-20,Dental,78,48.0,Completed,2.0
+A00796,2026-02-23,Dental,36,42.0,Completed,2.0
+A00797,2026-06-25,Cardiology,64,28.0,Cancelled,4.0
+A00798,2026-03-24,Cardiology,22,6.0,Cancelled,1.0
+A00799,2026-02-27,General Medicine,18,37.0,Completed,3.0
+A00800,2026-03-22,Orthopedics,21,54.0,Completed,4.0
+A00801,2026-01-03,Dental,80,13.0,Completed,2.0
+A00802,2026-02-24,Neurology,57,46.0,Completed,2.0
+A00803,2026-04-04,General Medicine,72,41.0,Completed,2.0
+A00804,2026-06-16,Dental,19,49.0,Completed,3.0
+A00805,2026-05-14,General Medicine,19,51.0,Completed,2.0
+A00806,2026-05-22,General Medicine,75,22.0,No-show,2.0
+A00807,2026-04-09,Neurology,24,6.0,Completed,3.0
+A00808,2026-01-21,Neurology,28,25.0,Completed,1.0
+A00809,2026-03-12,Cardiology,53,51.0,Completed,3.0
+A00810,2026-06-30,General Medicine,59,25.0,Completed,1.0
+A00811,2026-01-08,Orthopedics,33,23.0,Completed,1.0
+A00812,2026-06-09,General Medicine,48,2.0,Completed,2.0
+A00813,2026-05-04,Neurology,63,67.0,Completed,2.0
+A00814,2026-02-21,Cardiology,48,50.0,Completed,
+A00815,2026-05-21,Cardiology,44,49.0,Completed,5.0
+A00816,2026-06-01,Neurology,22,52.0,Cancelled,2.0
+A00817,2026-01-08,Neurology,48,45.0,Completed,
+A00818,2026-01-20,Cardiology,72,31.0,Completed,5.0
+A00819,2026-05-01,General Medicine,60,32.0,Completed,5.0
+A00820,2026-06-30,General Medicine,78,,Completed,5.0
+A00821,2026-01-05,Orthopedics,26,82.0,Completed,1.0
+A00822,2026-05-01,Orthopedics,18,45.0,No-show,2.0
+A00823,2026-01-25,Cardiology,55,,Completed,4.0
+A00824,2026-04-28,General Medicine,30,43.0,Completed,3.0
+A00825,2026-04-23,Dental,58,17.0,Completed,1.0
+A00826,2026-01-17,General Medicine,79,62.0,Completed,3.0
+A00827,2026-05-04,Dental,40,23.0,Completed,5.0
+A00828,2026-06-12,Neurology,55,44.0,Completed,5.0
+A00829,2026-06-06,Dental,64,54.0,Completed,2.0
+A00830,2026-01-06,Cardiology,28,42.0,Completed,2.0
+A00831,2026-02-14,General Medicine,79,37.0,Completed,2.0
+A00832,2026-02-13,Orthopedics,31,35.0,Completed,
+A00833,2026-03-24,Orthopedics,72,34.0,Completed,2.0
+A00834,2026-01-26,General Medicine,62,25.0,Cancelled,2.0
+A00835,2026-06-04,General Medicine,27,27.0,Completed,
+A00836,2026-05-21,General Medicine,67,62.0,Completed,1.0
+A00837,2026-05-27,Cardiology,31,33.0,Completed,2.0
+A00838,2026-02-05,Neurology,58,21.0,Completed,2.0
+A00839,2026-01-03,General Medicine,83,26.0,Completed,1.0
+A00840,2026-06-14,Dental,82,55.0,Completed,5.0
+A00841,2026-02-22,Cardiology,77,47.0,Completed,
+A00842,2026-04-29,General Medicine,51,45.0,No-show,5.0
+A00843,2026-06-14,Orthopedics,56,30.0,Completed,3.0
+A00844,2026-01-07,Neurology,38,45.0,completed,1.0
+A00845,2026-01-01,General Medicine,80,23.0,Completed,5.0
+A00846,2026-01-01,Neurology,50,,Completed,3.0
+A00847,2026-01-29,Orthopedics,70,52.0,Completed,4.0
+A00848,2026-01-10,Dental,42,51.0,Completed,
+A00849,2026-05-29,Orthopedics,68,17.0,Completed,3.0
+A00850,2026-04-20,,33,20.0,Completed,3.0
+A00851,2026-06-27,General Medicine,67,37.0,Completed,2.0
+A00852,2026-05-26,General Medicine,21,66.0,No-show,3.0
+A00853,2026-06-24,Dental,25,1.0,Completed,4.0
+A00854,2026-02-13,Dental,41,40.0,Completed,1.0
+A00855,2026-02-22,General Medicine,50,10.0,No-show,1.0
+A00856,2026-06-03,Cardiology,66,24.0,Completed,5.0
+A00857,2026-02-14,Orthopedics,42,28.0,Completed,3.0
+A00858,2026-01-11,Orthopedics,19,27.0,Completed,5.0
+A00859,2026-05-02,Neurology,40,25.0,No-show,4.0
+A00860,2026-05-25,Cardiology,47,35.0,Completed,4.0
+A00861,2026-06-25,Neurology,54,25.0,Completed,5.0
+A00862,2026-06-17,Dental,61,,No-show,4.0
+A00863,2026-01-22,Neurology,34,49.0,Completed,
+A00864,2026-05-20,,59,49.0,No-show,3.0
+A00865,2026-06-03,Orthopedics,60,50.0,Cancelled,2.0
+A00866,2026-05-07,Orthopedics,70,7.0,No-show,2.0
+A00867,2026-05-29,Dental,53,40.0,Completed,4.0
+A00868,2026-06-01,Cardiology,73,47.0,completed,1.0
+A00869,2026-03-22,Cardiology,33,16.0,Completed,4.0
+A00870,2026-01-08,Dental,66,35.0,Completed,3.0
+A00871,2026-03-24,Cardiology,21,33.0,Completed,2.0
+A00872,2026-02-06,General Medicine,24,68.0,No-show,1.0
+A00873,2026-01-21,Orthopedics,76,70.0,Completed,4.0
+A00874,2026-01-23,General Medicine,50,5.0,Completed,5.0
+A00875,2026-05-07,General Medicine,60,80.0,Completed,4.0
+A00876,2026-04-02,Cardiology,59,19.0,Completed,3.0
+A00877,2026-04-08,Neurology,65,53.0,Completed,4.0
+A00878,2026-05-15,General Medicine,34,52.0,Completed,3.0
+A00879,2026-04-10,Neurology,30,17.0,Cancelled,2.0
+A00880,2026-04-25,Orthopedics,20,44.0,Completed,2.0
+A00881,2026-01-16,Orthopedics,76,33.0,Completed,2.0
+A00882,2026-06-04,Cardiology,33,45.0,Completed,5.0
+A00883,2026-03-23,Orthopedics,57,39.0,Completed,4.0
+A00884,2026-01-29,General Medicine,48,57.0,Cancelled,1.0
+A00885,2026-05-28,General Medicine,29,36.0,Cancelled,5.0
+A00886,2026-05-13,Cardiology,46,32.0,Completed,1.0
+A00887,2026-01-10,General Medicine,23,55.0,Cancelled,3.0
+A00888,2026-02-04,,30,45.0,completed,1.0
+A00889,2026-01-03,General Medicine,27,48.0,Completed,2.0
+A00890,2026-02-19,Cardiology,74,23.0,Cancelled,4.0
+A00891,2026-01-19,General Medicine,56,16.0,Completed,5.0
+A00892,2026-05-09,General Medicine,80,25.0,Completed,5.0
+A00893,2026-04-05,Cardiology,47,24.0,Completed,5.0
+A00894,2026-06-27,Cardiology,31,49.0,Completed,2.0
+A00895,2026-05-16,General Medicine,59,53.0,Completed,1.0
+A00896,2026-04-21,Cardiology,81,,Completed,5.0
+A00897,2026-04-03,Orthopedics,54,61.0,Completed,5.0
+A00898,2026-01-10,General Medicine,19,60.0,Completed,2.0
+A00899,2026-01-13,Neurology,38,39.0,Cancelled,1.0
+A00900,2026-04-22,Orthopedics,80,20.0,Completed,4.0
+A00901,2026-01-01,Orthopedics,53,63.0,No-show,1.0
+A00902,2026-01-08,Cardiology,82,34.0,Completed,1.0
+A00903,2026-02-09,General Medicine,52,37.0,Completed,
+A00904,2026-06-10,Dental,18,29.0,Completed,3.0
+A00905,2026-03-25,Cardiology,77,19.0, CANCELLED ,1.0
+A00906,2026-05-09,Dental,69,9.0,Completed,4.0
+A00907,2026-03-16,General Medicine,66,46.0,No-show,2.0
+A00908,2026-02-01,Cardiology,83,21.0,Completed,3.0
+A00909,2026-03-09,General Medicine,31,90.0,completed,5.0
+A00910,2026-01-17,General Medicine,79,15.0,Completed,2.0
+A00911,2026-05-20,General Medicine,33,12.0,Completed,4.0
+A00912,2026-02-03,General Medicine,84,44.0,Completed,5.0
+A00913,2026-03-10,General Medicine,31,63.0,Completed,
+A00914,2026-06-27,General Medicine,55,36.0,Completed,5.0
+A00915,2026-04-18,Cardiology,71,45.0,Completed,3.0
+A00916,2026-03-24,General Medicine,23,2.0,Completed,3.0
+A00917,2026-04-09,Orthopedics,22,23.0,Completed,5.0
+A00918,2026-05-22,Orthopedics,75,16.0,completed,4.0
+A00919,2026-02-16,General Medicine,22,1.0,Completed,5.0
+A00920,2026-04-26,General Medicine,59,37.0,Completed,4.0
+A00921,2026-06-07,General Medicine,81,,Completed,4.0
+A00922,2026-04-14,Orthopedics,59,11.0,Completed,2.0
+A00923,2026-03-22,Orthopedics,50,25.0,Cancelled,2.0
+A00924,2026-01-27,Orthopedics,46,20.0,Completed,5.0
+A00925,2026-02-14,Dental,61,42.0,Completed,4.0
+A00926,2026-06-21,Orthopedics,56,41.0,Cancelled,2.0
+A00927,2026-04-08,Cardiology,52,51.0,Completed,2.0
+A00928,2026-02-24,Cardiology,28,49.0,Completed,4.0
+A00929,2026-03-17,General Medicine,63,56.0,No-show,1.0
+A00930,2026-04-15,Orthopedics,68,35.0,No-show,1.0
+A00931,2026-04-08,General Medicine,66,40.0,Completed,4.0
+A00932,2026-05-07,Neurology,23,44.0,Completed,2.0
+A00933,2026-02-16,Cardiology,65,38.0,Completed,4.0
+A00934,2026-04-28,Cardiology,67,28.0,No-show,3.0
+A00935,2026-03-22,Dental,30,29.0,No-show,5.0
+A00936,2026-06-20,General Medicine,75,20.0,Completed,3.0
+A00937,2026-01-29,Dental,53,43.0,Completed,5.0
+A00938,2026-01-27,Orthopedics,50,33.0,Completed,5.0
+A00939,2026-03-25,General Medicine,67,23.0,Completed,2.0
+A00940,2026-04-03,General Medicine,52,23.0,Completed,5.0
+A00941,2026-05-06,Dental,55,13.0,Completed,4.0
+A00942,2026-03-15,Cardiology,39,,Completed,1.0
+A00943,2026-06-15,Cardiology,81,36.0,Completed,1.0
+A00944,2026-03-27,Cardiology,83,19.0,Completed,2.0
+A00945,2026-01-24,Cardiology,26,50.0,Completed,1.0
+A00946,2026-01-22,Neurology,67,25.0,Completed,2.0
+A00947,2026-06-26,General Medicine,19,10.0,Completed,5.0
+A00948,2026-01-25,Orthopedics,43,53.0,NO-SHOW,3.0
+A00949,2026-06-21,Neurology,83,25.0,Completed,1.0
+A00950,2026-02-20,Dental,29,28.0,Completed,3.0
+A00951,2026-01-17,General Medicine,43,36.0,Completed,2.0
+A00952,2026-02-25,Neurology,32,56.0,Completed,5.0
+A00953,2026-04-22,General Medicine,67,35.0,Completed,
+A00954,2026-03-19,General Medicine,49,13.0,Completed,4.0
+A00955,2026-05-23,Dental,58,45.0,Completed,3.0
+A00956,2026-04-21,Cardiology,82,26.0,Completed,
+A00957,2026-03-14,Dental,53,69.0,Completed,4.0
+A00958,2026-04-25,Orthopedics,67,35.0,Completed,3.0
+A00959,2026-06-25,General Medicine,24,0.0,Completed,4.0
+A00960,2026-03-16,Dental,32,41.0,Completed,4.0
+A00961,2026-01-28,General Medicine,82,70.0,Completed,
+A00962,2026-03-15,Orthopedics,76,63.0,Completed,3.0
+A00963,2026-06-02,Cardiology,62,68.0,Completed,1.0
+A00964,2026-02-09,Dental,43,17.0,Completed,1.0
+A00965,2026-06-21,Neurology,31,51.0,Completed,3.0
+A00966,2026-04-17,Neurology,75,22.0,No-show,2.0
+A00967,2026-04-19,Orthopedics,71,39.0,No-show,4.0
+A00968,2026-02-27,Dental,34,12.0,No-show,3.0
+A00969,2026-06-16,General Medicine,58,23.0,Completed,5.0
+A00970,2026-01-07,Cardiology,60,23.0,Completed,1.0
+A00971,2026-02-24,,50,51.0,Completed,2.0
+A00972,2026-03-17,Cardiology,81,49.0,Completed,4.0
+A00973,2026-03-28,Cardiology,26,,Completed,1.0
+A00974,2026-03-27,Orthopedics,35,11.0,Completed,2.0
+A00975,2026-01-27,Orthopedics,24,29.0,Completed,4.0
+A00976,2026-02-10,Orthopedics,65,22.0,Completed,3.0
+A00977,2026-01-18,Orthopedics,61,51.0,Completed,4.0
+A00978,2026-04-14,General Medicine,85,56.0,Completed,3.0
+A00979,2026-03-05,Orthopedics,54,54.0,Completed,5.0
+A00980,2026-04-13,Orthopedics,28,21.0,Cancelled,5.0
+A00981,2026-04-17,Orthopedics,48,0.0,completed,5.0
+A00982,2026-05-08,Cardiology,24,3.0,Completed,1.0
+A00983,2026-04-10,Neurology,63,61.0,Completed,3.0
+A00984,2026-04-28,Dental,63,-10.0,Completed,1.0
+A00985,2026-04-17,Neurology,76,21.0,Completed,2.0
+A00986,2026-04-29,Cardiology,41,65.0,Completed,2.0
+A00987,2026-04-22,General Medicine,39,58.0,Completed,4.0
+A00988,2026-02-27,Orthopedics,22,35.0,Completed,3.0
+A00989,2026-02-14,General Medicine,46,30.0,Completed,5.0
+A00990,2026-05-23,Orthopedics,50,33.0,No-show,2.0
+A00991,2026-03-04,Cardiology,69,39.0,Completed,4.0
+A00992,2026-04-10,General Medicine,69,64.0,Completed,4.0
+A00993,2026-02-05,Neurology,27,43.0,Completed,5.0
+A00994,2026-03-20,General Medicine,37,48.0,Completed,2.0
+A00995,2026-04-06,Orthopedics,52,56.0,Completed,4.0
+A00996,2026-04-24,,40,14.0,completed,1.0
+A00997,2026-04-06,General Medicine,19,49.0,completed,3.0
+A00998,2026-03-07,Neurology,75,30.0,Completed,3.0
+A00999,2026-06-24,Dental,67,0.0,completed,5.0
+A01000,2026-04-03,Neurology,53,0.0,Completed,4.0
+A00522,2026-01-27,General Medicine,40,0.0,Completed,1.0
+A00738,2026-03-02,Orthopedics,53,34.0,No-show,4.0
+A00741,2026-05-28,General Medicine,33,52.0,Completed,2.0
+A00661,2026-02-01,Cardiology,55,,Completed,3.0
+A00412,2026-02-11,General Medicine,85,55.0,Completed,3.0
+A00679,2026-04-05,Dental,54,35.0,Completed,5.0
+A00627,2026-03-03,Orthopedics,70,52.0,Cancelled,2.0
+A00514,2026-05-28,General Medicine,27,47.0,Completed,4.0
+A00860,2026-05-25,Cardiology,47,35.0,Completed,4.0
+A00137,2026-04-20,Neurology,57,46.0,Completed,4.0
